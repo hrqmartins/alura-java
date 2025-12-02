@@ -6,7 +6,7 @@ Essas habilidades formam a base para o desenvolvimento eficaz de programas em Ja
 você praticar. Vamos praticar?
 */
 
-package challenge;
+package desafios;
 
 // 1. Crie um programa que realize a média de duas notas decimais e exiba o resultado.
 public class Modulo2 {
